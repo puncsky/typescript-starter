@@ -1,5 +1,5 @@
 {
-  "name": "flowtype-boilerplate",
+  "name": "flowtype-starter",
   "version": "1.2.0",
   "description": "field_description",
   "main": "index.js",
@@ -80,8 +80,6 @@
     "flow-bin": "0.89.0",
     "flow-typed": "2.5.1",
     "global": "4.3.2",
-    "jsdom": "12.2.0",
-    "jsdom-global": "3.0.2",
     "nyc": "13.1.0"
   },
   "engines": {

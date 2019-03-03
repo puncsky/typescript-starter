@@ -1,4 +1,6 @@
-# flowtype-boilerplate
+# flowtype-starter
+
+A simplistic flowtype boilerplate using Facebook FlowType, Babel, Eslint, Ava, and CircleCI.
 
 ```bash
 nvm use 10.15.1
