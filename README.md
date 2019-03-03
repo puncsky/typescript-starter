@@ -7,8 +7,6 @@ nvm use 10.15.1
 npm install
 
 # test
-# prepare flow type definitions
-npm run flow-install
 # run all tests
 npm run test
 # run a single test file

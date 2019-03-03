@@ -5,10 +5,9 @@ module.exports = {
         node: 'current',
       },
     }],
-    ['@babel/preset-flow'],
+    ['@babel/preset-typescript'],
   ],
   plugins: [
-    '@babel/plugin-transform-flow-strip-types',
     '@babel/plugin-proposal-object-rest-spread',
     'transform-class-properties',
   ],
