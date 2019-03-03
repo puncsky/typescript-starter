@@ -1,6 +1,6 @@
-# flowtype-starter
+# typescript-starter
 
-A simplistic flowtype boilerplate using Facebook FlowType, Babel, Eslint, Ava, and CircleCI.
+A simplistic typescript boilerplate using babel, tslint, ava, and CircleCI.
 
 ```bash
 nvm use 10.15.1
