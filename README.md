@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/puncsky/typescript-starter.svg?style=svg)](https://circleci.com/gh/puncsky/typescript-starter)
+
 # typescript-starter
 
 A simplistic typescript boilerplate using babel, tslint, ava, and CircleCI.
