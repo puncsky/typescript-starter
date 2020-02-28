@@ -85,7 +85,7 @@
     "prettier": "1.19.1",
     "pretty-quick": "2.0.1",
     "tslint-require-connnect-typing": "1.0.1",
-    "typescript": "3.8.2"
+    "typescript": "3.8.3"
   },
   "engines": {
     "node": "10.19.0",
