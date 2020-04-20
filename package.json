@@ -77,7 +77,7 @@
     "build-changelog": "2.1.2",
     "global": "4.4.0",
     "nyc": "14.1.1",
-    "ts-node": "8.8.2",
+    "ts-node": "8.9.0",
     "tslint": "5.20.1",
     "tslint-config-prettier": "1.18.0",
     "tslint-microsoft-contrib": "6.2.0",
