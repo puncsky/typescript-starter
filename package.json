@@ -81,7 +81,7 @@
     "prettier": "1.19.1",
     "pretty-quick": "2.0.2",
     "typescript": "3.9.7",
-    "@puncsky/eslint-config-onefx": "2.3.7",
+    "@puncsky/eslint-config-onefx": "2.4.0",
     "@typescript-eslint/eslint-plugin": "4.1.1",
     "@typescript-eslint/parser": "4.1.1",
     "eslint": "7.9.0",
