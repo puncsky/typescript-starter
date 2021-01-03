@@ -3,7 +3,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: "circleci/node:10.23.0-browsers-legacy@sha256:977bc44e9a0d1721af9f4f5eb89c6758532255c0ddc5fe94adba563772cff28c"
+      - image: "circleci/node:10.23.0-browsers-legacy@sha256:aa10f1c0ca48b71d7f8f77b68df6059c86c3de8b8609a6ba9b6f8a6b8154cc79"
     steps:
       - checkout
       # Download and cache dependencies
