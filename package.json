@@ -12,7 +12,7 @@
     "test": "npm run cover",
     "check-coverage": "nyc check-coverage --lines 65 --functions 60 --Statements 65",
     "ava": "NODE_ENV=test ava",
-    "server": "node server",
+    "start": "ts-node src/index.ts",
     "lint": "pretty-quick --staged && eslint src --fix --ext .js,.tsx,.ts --quiet",
     "qualitycheck": "npm-run-all typecheck",
     "cover": "tsc && NODE_ENV=test npm run lint && nyc npm run ava",
