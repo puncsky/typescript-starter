@@ -80,7 +80,7 @@
     "husky": "3.1.0",
     "prettier": "1.19.1",
     "pretty-quick": "2.0.2",
-    "typescript": "3.9.8",
+    "typescript": "3.9.9",
     "@puncsky/eslint-config-onefx": "2.6.6",
     "@typescript-eslint/eslint-plugin": "4.15.0",
     "@typescript-eslint/parser": "4.15.0",
