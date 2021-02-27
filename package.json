@@ -64,10 +64,10 @@
   "homepage": "https://github.com/puncsky/template_website#readme",
   "devDependencies": {
     "@babel/cli": "7.13.0",
-    "@babel/core": "7.13.1",
-    "@babel/preset-env": "7.13.5",
+    "@babel/core": "7.13.8",
+    "@babel/preset-env": "7.13.8",
     "@babel/preset-typescript": "7.13.0",
-    "@babel/register": "7.13.0",
+    "@babel/register": "7.13.8",
     "@types/node": "11.15.47",
     "ava": "2.4.0",
     "babel-loader": "8.2.2",
