@@ -82,8 +82,8 @@
     "pretty-quick": "2.0.2",
     "typescript": "3.9.10",
     "@puncsky/eslint-config-onefx": "2.6.6",
-    "@typescript-eslint/eslint-plugin": "4.28.4",
-    "@typescript-eslint/parser": "4.28.4",
+    "@typescript-eslint/eslint-plugin": "4.28.5",
+    "@typescript-eslint/parser": "4.28.5",
     "eslint": "7.31.0",
     "eslint-plugin-import": "2.23.4"
   },
