@@ -70,7 +70,7 @@
     "@babel/register": "7.15.3",
     "@types/node": "11.15.54",
     "ava": "2.4.0",
-    "babel-loader": "8.2.2",
+    "babel-loader": "8.2.3",
     "babel-plugin-module-resolver": "3.2.0",
     "babel-plugin-transform-class-properties": "6.24.1",
     "build-changelog": "2.1.2",
