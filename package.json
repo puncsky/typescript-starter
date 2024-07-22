@@ -76,7 +76,7 @@
     "build-changelog": "2.1.2",
     "global": "4.4.0",
     "nyc": "14.1.1",
-    "ts-node": "8.10.2",
+    "ts-node": "10.9.2",
     "husky": "5.2.0",
     "prettier": "1.19.1",
     "pretty-quick": "2.0.2",
