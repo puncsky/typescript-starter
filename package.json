@@ -68,7 +68,7 @@
     "@babel/preset-env": "7.26.9",
     "@babel/preset-typescript": "7.26.0",
     "@babel/register": "7.25.9",
-    "@types/node": "14.18.63",
+    "@types/node": "22.13.5",
     "ava": "2.4.0",
     "babel-loader": "8.4.1",
     "babel-plugin-module-resolver": "3.2.0",
